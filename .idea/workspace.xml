@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c592e349-0b8a-4f87-b7da-02cb96ae5786" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580794500187</updated>
       <workItem from="1580794503938" duration="9552000" />
-      <workItem from="1580866394627" duration="8062000" />
+      <workItem from="1580866394627" duration="8679000" />
     </task>
     <servers />
   </component>
@@ -301,13 +291,13 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="317" y="223" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.960@0.0.1536.960" timestamp="1580872300491" />
-    <state x="257" y="100" width="988" height="737" key="find.popup" timestamp="1580877695629">
+    <state x="257" y="100" width="988" height="737" key="find.popup" timestamp="1580881289430">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="257" y="100" width="988" height="737" key="find.popup/0.0.1536.960@0.0.1536.960" timestamp="1580877695629" />
-    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup" timestamp="1580880245490">
+    <state x="257" y="100" width="988" height="737" key="find.popup/0.0.1536.960@0.0.1536.960" timestamp="1580881289430" />
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup" timestamp="1580880886764">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1580880245490" />
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1580880886764" />
   </component>
 </project>
