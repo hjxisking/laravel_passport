@@ -37,4 +37,15 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    /**
+     * 通过给定的username获取用户实例。
+     *
+     * @param  string  $username
+     * @return \App\Models\User
+     */
+    public function findForPassport($username)
+    {
+        return $this->where('name', $username)->first();
+    }
 }
